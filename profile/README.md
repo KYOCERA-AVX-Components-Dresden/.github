@@ -9,5 +9,5 @@ Temperature Sensors • Pressure Sensors • Urea Concentration Sensors • Elec
 ### USB high temperature sensor
 
 The USB high temperature sensor is an easy use temperature sensor with an measurement range from -40°C upto 1200°C.
-➞ [GitHub Repository](https://github.com/BorisBloxsberg73/USB-high-temperature-sensor/tree/main)
-➞ [Support page](https://kyocera-avx-components-dresden.github.io/USB-high-temperature-sensor/)
+<br>➞ [GitHub Repository](https://github.com/BorisBloxsberg73/USB-high-temperature-sensor/tree/main)
+<br>➞ [Support page](https://kyocera-avx-components-dresden.github.io/USB-high-temperature-sensor/)
