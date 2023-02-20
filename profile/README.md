@@ -1,5 +1,5 @@
 
-# Company indroduction
+# Company introduction
 KYOCERA AVX Components (Dresden) GmbH is a proven partner for the automotive industry for more than 30 years. We develop and produce intelligent sensor systems and control units for the global automotive industry. On state of the art and even beyond. Our products make engines more efficient, emissions cleaner, cars safer and help the transition to electromobility.
 
 Temperature Sensors • Pressure Sensors • Urea Concentration Sensors • Electromechanical Assemblies
